@@ -8,3 +8,5 @@
 [HTTPDebugger](./HTTPDebuggerPro-Crack)
 
 [MobaXterm](./MobaXterm-GenKey)
+
+[Charles](./Charles)
