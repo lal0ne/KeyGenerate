@@ -4,3 +4,7 @@
 ## 软件列表
 
 [FastStone-Capture](./FastStone-Capture-Key-Generate)
+
+[HTTPDebugger](./HTTPDebuggerPro-Crack)
+
+[MobaXterm](./MobaXterm-GenKey)
