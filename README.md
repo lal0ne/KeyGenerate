@@ -10,3 +10,5 @@
 [MobaXterm](./MobaXterm-GenKey)
 
 [Charles](./Charles)
+
+[JEB](./JEB-GenKey)
